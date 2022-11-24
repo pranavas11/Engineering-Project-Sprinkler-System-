@@ -1,2 +1,2 @@
 # Engineering-Project-Sprinkler-System-
-This project is focused on developing a remote-controlled automated sprinkler system. A model of the sprinkler system prototype is built using CAD and programmed in MATLAB.
+This project is focused on developing a remote-controlled automated sprinkler system. A model of the sprinkler system prototype is built using CAD and programmed in MATLAB. An easy to use and effective sprinkler system was proposed as the solution to the problem on snow accumulation on the sidewalks on the VT campus. Data was collected and modeled to analyze the population trend given any specific location on campus at any specific time. Moreover, sprinkler performance can be determined by its effective functionality during the winter months.
